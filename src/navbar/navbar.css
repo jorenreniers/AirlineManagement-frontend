@@ -1,0 +1,22 @@
+/* CSS */
+.navbar {
+    position: fixed;   /* of: position: sticky; */
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 16px;
+    background: rgba(244, 206, 170, 0.93);
+    border-bottom: 1px solid #e5e7eb;
+    z-index: 1000;
+    font-family: 'Roboto', sans-serif;
+}
+
+.app-main {
+    padding: 16px;
+    padding-top: 80px;
+}
+
