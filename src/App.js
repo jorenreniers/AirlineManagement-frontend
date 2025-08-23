@@ -6,6 +6,8 @@ import Navbar from './navbar/Navbar';
 
 function App() {
     return (
+
+
         <BrowserRouter>
             <Navbar />
             <main className="app-main">
@@ -14,6 +16,7 @@ function App() {
                 </Routes>
             </main>
         </BrowserRouter>
+
     );
 }
 

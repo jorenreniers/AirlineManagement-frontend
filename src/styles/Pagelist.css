@@ -1,5 +1,5 @@
 body {
-    background-color: #f5f5f5;
+    background-color: rgba(192, 244, 235, 0.78);
     font-family: "Gill Sans", "Helvetica", "Segoe UI", sans-serif;
 }
 
@@ -9,8 +9,6 @@ body {
     gap: 16px;
     flex-wrap: wrap;
 }
-
-
 
 .search-bar {
     display: flex;
