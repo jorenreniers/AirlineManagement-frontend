@@ -4,7 +4,7 @@ import "../styles/Pagelist.css";
 import "../styles/menuButtons.css";
 import { Link } from "react-router-dom";
 import { getAllPassengers } from "../service/PassengerService";
-import { getAllPlanes } from "../service/PlaneService"; // nieuw
+import { getAllPlanes } from "../service/PlaneService";
 
 function PassengerList() {
     const [passengers, setPassengers] = useState([]);
