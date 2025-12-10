@@ -1,4 +1,3 @@
-// JavaScript
 import React, { useState } from "react";
 import "../styles/createPage.css";
 import "../styles/menuButtons.css";

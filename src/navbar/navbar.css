@@ -1,6 +1,5 @@
-/* CSS */
 .navbar {
-    position: fixed;   /* of: position: sticky; */
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -14,12 +13,7 @@
     z-index: 1000;
     font-family: 'Roboto', sans-serif;
 }
-/*werken met glass effect*/
-/*.navbar {*/
-/*    backdrop-filter: blur(30px);*/
-/*    box-shadow: 0 0px 0px rgba(227,228, 237, 0.37);*/
-/*    border: 2px solid rgba(255,255, 255, 0.18);*/
-/*}*/
+
 
 .app-main {
     padding: 5px;
